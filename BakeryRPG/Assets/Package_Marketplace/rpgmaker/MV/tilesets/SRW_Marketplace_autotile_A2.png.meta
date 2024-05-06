@@ -1,0 +1,2318 @@
+fileFormatVersion: 2
+guid: 0a14f4614cfad1b44a4e1c6ea016fd71
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SRW_Marketplace_autotile_A2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 527
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf35e968f9dc39949b8240d2feab89d6
+      internalID: 319413418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SRW_Marketplace_autotile_A2_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 527
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3d798b8beabe1045b64743de5438889
+      internalID: 1118889064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SRW_Marketplace_autotile_A2_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 527
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5141d510149d8a04ea9d8ebf0b384f79
+      internalID: -654886506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SRW_Marketplace_autotile_A2_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 527
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f8ff8c1e56c80b498dc88b6ba22d740
+      internalID: -291186704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SRW_Marketplace_autotile_A2_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 527
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f49919c8c92c774cb5fee62ec28c043
+      internalID: -2031781774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SRW_Marketplace_autotile_A2_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 527
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce9caa50483a04c4689a86d85d414c17
+      internalID: -538271789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SRW_Marketplace_autotile_A2_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 527
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db2db9852ed07154783243937d65e9f8
+      internalID: -725401713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SRW_Marketplace_autotile_A2_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 527
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 502a528dc7caaf440a4d2ab6b3711b69
+      internalID: 649807838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SRW_Marketplace_autotile_A2_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 527
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57d78320bf95b5c448cdc6e44044dbf5
+      internalID: 1363283146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SRW_Marketplace_autotile_A2_9
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 527
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19e789af886df78409ad36721915873e
+      internalID: -1269364644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SRW_Marketplace_autotile_A2_10
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 527
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 264c92b5f1ee3c547ada38cfa51d6483
+      internalID: -1871759980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SRW_Marketplace_autotile_A2_11
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 527
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6a6d59fba2fa864696aa7719f35fbed
+      internalID: -1534199392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SRW_Marketplace_autotile_A2_12
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 527
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5dcb75cd654a4541b9acc3b1d192339
+      internalID: 1934582557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SRW_Marketplace_autotile_A2_13
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 527
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b71d9f28efff5b4c9b56750d7c1462d
+      internalID: -1878768707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SRW_Marketplace_autotile_A2_14
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 527
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f707569772a4d21448fe9c9ac9730218
+      internalID: 1198044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SRW_Marketplace_autotile_A2_15
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 527
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 106742e314a8ee7418eb42810f2ae44c
+      internalID: 1299869513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SRW_Marketplace_autotile_A2_16
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 527
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcfcb2a19153f654d9f1788f18dff6dc
+      internalID: -366506366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SRW_Marketplace_autotile_A2_17
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 527
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc013acef4654344ba007d24609041ce
+      internalID: 904398249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SRW_Marketplace_autotile_A2_18
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 527
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a47f4bd7bfbd1114f91069e528ca1b13
+      internalID: 572437040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SRW_Marketplace_autotile_A2_19
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 527
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf7ac4f0185ed8b4c8e221f8a842e63c
+      internalID: -1538170709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SRW_Marketplace_autotile_A2_20
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 527
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7b085dd01f96a54ba5349c600d3d570
+      internalID: -616304856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SRW_Marketplace_autotile_A2_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 495
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fe7900013667094da728f524dfff6cc
+      internalID: -902753730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SRW_Marketplace_autotile_A2_22
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 495
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e8627549efd81342add9d9aeaf306de
+      internalID: -1324003668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SRW_Marketplace_autotile_A2_23
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 495
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88d1fa665dad3274894f0b073aae4102
+      internalID: 1829989934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SRW_Marketplace_autotile_A2_24
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 495
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fad99f848109fa545a95e976672048b4
+      internalID: -1075017436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SRW_Marketplace_autotile_A2_25
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 495
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6883bda5d704e54a9294ace3d142d6d
+      internalID: -1562875888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SRW_Marketplace_autotile_A2_26
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 495
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2238b86c4cd2a8b469fdfd0619951959
+      internalID: 1920377761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SRW_Marketplace_autotile_A2_27
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 495
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c720f70f3f0a584790d414ec24b4c86
+      internalID: -770429678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SRW_Marketplace_autotile_A2_28
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 495
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2776420b7b40e4541b210eb738beb6f7
+      internalID: -2087717685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SRW_Marketplace_autotile_A2_29
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 495
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 417f99d923b6da549a6e847107a97338
+      internalID: -255153189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SRW_Marketplace_autotile_A2_30
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 495
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3924465f810681a4fa5b97ffb4bdae63
+      internalID: -1217313833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SRW_Marketplace_autotile_A2_31
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 495
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3efea06bb5d568b408e1c34e60ec4585
+      internalID: 177063994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SRW_Marketplace_autotile_A2_32
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 495
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47c8e688630588343b0ce974691c3a88
+      internalID: 1916968787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SRW_Marketplace_autotile_A2_33
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 495
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32008cba6c4348d4c8ee540ca304120e
+      internalID: -840686537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SRW_Marketplace_autotile_A2_34
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 495
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22e413c6da173424dbdd07507a492d55
+      internalID: -2000805447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SRW_Marketplace_autotile_A2_35
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 495
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca50c1e2caf699a4a809881675c227f6
+      internalID: -1313309755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SRW_Marketplace_autotile_A2_36
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 495
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4e26d5fe1b14dc42bb45c79940e1973
+      internalID: 1301367809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SRW_Marketplace_autotile_A2_37
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 495
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b23dd5c26eaf13348b0d5838897f7d50
+      internalID: -2054261455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SRW_Marketplace_autotile_A2_38
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 495
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 516bdedbbef1ee34d8aa9753d999d4b9
+      internalID: -1397730898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SRW_Marketplace_autotile_A2_39
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 495
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb6ab9066bdf9034b89888a1a8be4a71
+      internalID: -321177912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SRW_Marketplace_autotile_A2_40
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 495
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38cabac5f0702dd4bbca7b93d6ad9a77
+      internalID: 690497018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SRW_Marketplace_autotile_A2_41
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 495
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2ff7869f7f3fde418a8197f1054b90c
+      internalID: 802970159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SRW_Marketplace_autotile_A2_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 463
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1acbe1e90d0797439b743b32df37808
+      internalID: 9293774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SRW_Marketplace_autotile_A2_43
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 463
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2f6fe4b22c15e949abd0fcf436f328a
+      internalID: -1325948364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SRW_Marketplace_autotile_A2_44
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 463
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae855767c0b81bc46af9acd7a89300c7
+      internalID: 1471589498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SRW_Marketplace_autotile_A2_45
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 463
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 266454b607180884abe07d72cad851f1
+      internalID: -217613068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SRW_Marketplace_autotile_A2_46
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 463
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfb295a8ae4d77048a141aaadc1a86e2
+      internalID: -857976600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SRW_Marketplace_autotile_A2_47
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 463
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e91a464ae57d2904d8659a97a3b83507
+      internalID: 472602059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SRW_Marketplace_autotile_A2_48
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 463
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9195e227b64e5ae4394bc6c87a34ce36
+      internalID: 51248294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SRW_Marketplace_autotile_A2_49
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 463
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b8255c7055f9db45b1ba28e720ad925
+      internalID: -1578566203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SRW_Marketplace_autotile_A2_50
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 463
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1279ee03c673e7409085fabe33f43b5
+      internalID: -336968215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SRW_Marketplace_autotile_A2_51
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 463
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a44012c1299f404299a55e70fe721bf
+      internalID: -849333789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SRW_Marketplace_autotile_A2_52
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 463
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a68d9a5674d52a428019d6e3dd181d1
+      internalID: -1685367297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SRW_Marketplace_autotile_A2_53
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 463
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19abae13b1f294a40aa44475c1b60270
+      internalID: -1281691446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SRW_Marketplace_autotile_A2_54
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 463
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc4a92f305c3dfd45acb30d33d46a173
+      internalID: 2036513645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SRW_Marketplace_autotile_A2_55
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 463
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f8f897d45fdd4f4c93e548fb737d189
+      internalID: 1581420167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SRW_Marketplace_autotile_A2_56
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 463
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc7ce77547e47d04c99469dfb45e8551
+      internalID: -1050413088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SRW_Marketplace_autotile_A2_57
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 463
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d06bd4651ee33d4483e2e4841c5831b
+      internalID: 737431406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SRW_Marketplace_autotile_A2_58
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 463
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8c6307b55dba814ab1e680bddb431b1
+      internalID: -229297579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SRW_Marketplace_autotile_A2_59
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 463
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f614a29383658dd46b0a16029764543d
+      internalID: -1876879188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SRW_Marketplace_autotile_A2_60
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 463
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 233144289e841f54bb2a63cea0181c8f
+      internalID: 405178630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SRW_Marketplace_autotile_A2_61
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 463
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d1535106e6108446b4acf862f7fc970
+      internalID: -1085373094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SRW_Marketplace_autotile_A2_62
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 463
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16d641a227fc05a418a65fc0341b0f2e
+      internalID: 1913828649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SRW_Marketplace_autotile_A2_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 431
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86d1270a9a71a874bba2229ac67c2287
+      internalID: 643215154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SRW_Marketplace_autotile_A2_64
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 431
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 034dfc6e6e7e26045a4940d92f389c13
+      internalID: 540275597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SRW_Marketplace_autotile_A2_65
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 431
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64c609cc7e9a0f34897932295d5c976c
+      internalID: -562967876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SRW_Marketplace_autotile_A2_66
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 431
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 934cada513df5f247b37c36817557e97
+      internalID: 1126220198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SRW_Marketplace_autotile_A2_67
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 431
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b82c7ab67bbdec94e977bb7613ef44dd
+      internalID: -2016243265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SRW_Marketplace_autotile_A2_68
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 431
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e51aabf76ee6ce04f9664c002c6d0592
+      internalID: -263976335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SRW_Marketplace_autotile_A2_69
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 431
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 180fc0f4b90373241ac02fa4248e7e26
+      internalID: 898377201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SRW_Marketplace_autotile_A2_70
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 431
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88db9db1d0ed553449a89821c9cbef5e
+      internalID: 1330389549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SRW_Marketplace_autotile_A2_71
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 431
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73ecf325cef1e9843aa8045abacea972
+      internalID: 338528467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SRW_Marketplace_autotile_A2_72
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 431
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7482ea97ff4dbd54aa535133f62675b1
+      internalID: -1666755511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SRW_Marketplace_autotile_A2_73
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 431
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb7eaebdf63f477478aa6a8fd86a7b25
+      internalID: -342558201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SRW_Marketplace_autotile_A2_74
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 431
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 587556befc9238a4a95da8ff97f0a200
+      internalID: -1964105531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SRW_Marketplace_autotile_A2_75
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 431
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 889407f43a1366e47b11084d399330c0
+      internalID: 1541209611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SRW_Marketplace_autotile_A2_76
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 431
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16c3d1ad0c12c014fa7c119574be8604
+      internalID: -359259159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SRW_Marketplace_autotile_A2_77
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 431
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaa5e05bbf906ff46860f2d1ff5e88ea
+      internalID: -1641906564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SRW_Marketplace_autotile_A2_78
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 431
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a6bbf97df441764c8ae21db4aca77a7
+      internalID: 48561633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SRW_Marketplace_autotile_A2_79
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 431
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6142056e7a2470a4b86982bd5e4383e4
+      internalID: 264329843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SRW_Marketplace_autotile_A2_80
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 431
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52328fac0af8cbf489c271f607bad26c
+      internalID: -59437279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SRW_Marketplace_autotile_A2_81
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 431
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f2f154f91a002344b7fc3ea1be10cd9
+      internalID: -314061359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SRW_Marketplace_autotile_A2_82
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 431
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2ed71d9fd427204aa8463f4d619e96d
+      internalID: -1634999516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SRW_Marketplace_autotile_A2_83
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 431
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1a7753d37c390747ae350fb7e4d4017
+      internalID: -393282075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SRW_Marketplace_autotile_A2_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 399
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ece0b68f6bd63942b4a0adf59af6bce
+      internalID: -411361476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SRW_Marketplace_autotile_A2_85
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 399
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd28665e770b5674d8f151ee62ed2320
+      internalID: 517725347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SRW_Marketplace_autotile_A2_86
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 399
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1692ec61c4034c4392de16b4fc10787
+      internalID: 1865636380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SRW_Marketplace_autotile_A2_87
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 367
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 993cf886fdb12a041b509cc86afe283b
+      internalID: -426995167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SRW_Marketplace_autotile_A2_88
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 367
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7480b334b09411f41bd35be32727caa6
+      internalID: -630307297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SRW_Marketplace_autotile_A2_89
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 367
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2a752c5eca96b546909f49853e59118
+      internalID: -1633680871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SRW_Marketplace_autotile_A2_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 335
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5988cb73afc86a34db99fee39bafaa5f
+      internalID: -502432493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SRW_Marketplace_autotile_A2_91
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 335
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 601eb773f587c9242a0ff41c497eaeae
+      internalID: 603671783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SRW_Marketplace_autotile_A2_92
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 335
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59841dfa65feef74ca89302e52f58a45
+      internalID: -146299154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SRW_Marketplace_autotile_A2_93
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 303
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42f7c7589c1cbab4fae8b41a7d176c2e
+      internalID: 284452745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SRW_Marketplace_autotile_A2_94
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 303
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b44702cc18b9794bb848a6b63e7564a
+      internalID: 1836683056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SRW_Marketplace_autotile_A2_95
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 303
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fd8b396d4f2aa344ac3e658f5d032f1
+      internalID: 1841242312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SRW_Marketplace_autotile_A2_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 271
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a204d7aa1760ee3488340ca9d95f21b9
+      internalID: -621155282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SRW_Marketplace_autotile_A2_97
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 271
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ade0ef226c208704f9620f8ea368b06b
+      internalID: -1039134939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SRW_Marketplace_autotile_A2_98
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 271
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2503500a7a6942e49821b3b014e96c9e
+      internalID: -1556372255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      SRW_Marketplace_autotile_A2_0: 319413418
+      SRW_Marketplace_autotile_A2_1: 1118889064
+      SRW_Marketplace_autotile_A2_10: -1871759980
+      SRW_Marketplace_autotile_A2_11: -1534199392
+      SRW_Marketplace_autotile_A2_12: 1934582557
+      SRW_Marketplace_autotile_A2_13: -1878768707
+      SRW_Marketplace_autotile_A2_14: 1198044
+      SRW_Marketplace_autotile_A2_15: 1299869513
+      SRW_Marketplace_autotile_A2_16: -366506366
+      SRW_Marketplace_autotile_A2_17: 904398249
+      SRW_Marketplace_autotile_A2_18: 572437040
+      SRW_Marketplace_autotile_A2_19: -1538170709
+      SRW_Marketplace_autotile_A2_2: -654886506
+      SRW_Marketplace_autotile_A2_20: -616304856
+      SRW_Marketplace_autotile_A2_21: -902753730
+      SRW_Marketplace_autotile_A2_22: -1324003668
+      SRW_Marketplace_autotile_A2_23: 1829989934
+      SRW_Marketplace_autotile_A2_24: -1075017436
+      SRW_Marketplace_autotile_A2_25: -1562875888
+      SRW_Marketplace_autotile_A2_26: 1920377761
+      SRW_Marketplace_autotile_A2_27: -770429678
+      SRW_Marketplace_autotile_A2_28: -2087717685
+      SRW_Marketplace_autotile_A2_29: -255153189
+      SRW_Marketplace_autotile_A2_3: -291186704
+      SRW_Marketplace_autotile_A2_30: -1217313833
+      SRW_Marketplace_autotile_A2_31: 177063994
+      SRW_Marketplace_autotile_A2_32: 1916968787
+      SRW_Marketplace_autotile_A2_33: -840686537
+      SRW_Marketplace_autotile_A2_34: -2000805447
+      SRW_Marketplace_autotile_A2_35: -1313309755
+      SRW_Marketplace_autotile_A2_36: 1301367809
+      SRW_Marketplace_autotile_A2_37: -2054261455
+      SRW_Marketplace_autotile_A2_38: -1397730898
+      SRW_Marketplace_autotile_A2_39: -321177912
+      SRW_Marketplace_autotile_A2_4: -2031781774
+      SRW_Marketplace_autotile_A2_40: 690497018
+      SRW_Marketplace_autotile_A2_41: 802970159
+      SRW_Marketplace_autotile_A2_42: 9293774
+      SRW_Marketplace_autotile_A2_43: -1325948364
+      SRW_Marketplace_autotile_A2_44: 1471589498
+      SRW_Marketplace_autotile_A2_45: -217613068
+      SRW_Marketplace_autotile_A2_46: -857976600
+      SRW_Marketplace_autotile_A2_47: 472602059
+      SRW_Marketplace_autotile_A2_48: 51248294
+      SRW_Marketplace_autotile_A2_49: -1578566203
+      SRW_Marketplace_autotile_A2_5: -538271789
+      SRW_Marketplace_autotile_A2_50: -336968215
+      SRW_Marketplace_autotile_A2_51: -849333789
+      SRW_Marketplace_autotile_A2_52: -1685367297
+      SRW_Marketplace_autotile_A2_53: -1281691446
+      SRW_Marketplace_autotile_A2_54: 2036513645
+      SRW_Marketplace_autotile_A2_55: 1581420167
+      SRW_Marketplace_autotile_A2_56: -1050413088
+      SRW_Marketplace_autotile_A2_57: 737431406
+      SRW_Marketplace_autotile_A2_58: -229297579
+      SRW_Marketplace_autotile_A2_59: -1876879188
+      SRW_Marketplace_autotile_A2_6: -725401713
+      SRW_Marketplace_autotile_A2_60: 405178630
+      SRW_Marketplace_autotile_A2_61: -1085373094
+      SRW_Marketplace_autotile_A2_62: 1913828649
+      SRW_Marketplace_autotile_A2_63: 643215154
+      SRW_Marketplace_autotile_A2_64: 540275597
+      SRW_Marketplace_autotile_A2_65: -562967876
+      SRW_Marketplace_autotile_A2_66: 1126220198
+      SRW_Marketplace_autotile_A2_67: -2016243265
+      SRW_Marketplace_autotile_A2_68: -263976335
+      SRW_Marketplace_autotile_A2_69: 898377201
+      SRW_Marketplace_autotile_A2_7: 649807838
+      SRW_Marketplace_autotile_A2_70: 1330389549
+      SRW_Marketplace_autotile_A2_71: 338528467
+      SRW_Marketplace_autotile_A2_72: -1666755511
+      SRW_Marketplace_autotile_A2_73: -342558201
+      SRW_Marketplace_autotile_A2_74: -1964105531
+      SRW_Marketplace_autotile_A2_75: 1541209611
+      SRW_Marketplace_autotile_A2_76: -359259159
+      SRW_Marketplace_autotile_A2_77: -1641906564
+      SRW_Marketplace_autotile_A2_78: 48561633
+      SRW_Marketplace_autotile_A2_79: 264329843
+      SRW_Marketplace_autotile_A2_8: 1363283146
+      SRW_Marketplace_autotile_A2_80: -59437279
+      SRW_Marketplace_autotile_A2_81: -314061359
+      SRW_Marketplace_autotile_A2_82: -1634999516
+      SRW_Marketplace_autotile_A2_83: -393282075
+      SRW_Marketplace_autotile_A2_84: -411361476
+      SRW_Marketplace_autotile_A2_85: 517725347
+      SRW_Marketplace_autotile_A2_86: 1865636380
+      SRW_Marketplace_autotile_A2_87: -426995167
+      SRW_Marketplace_autotile_A2_88: -630307297
+      SRW_Marketplace_autotile_A2_89: -1633680871
+      SRW_Marketplace_autotile_A2_9: -1269364644
+      SRW_Marketplace_autotile_A2_90: -502432493
+      SRW_Marketplace_autotile_A2_91: 603671783
+      SRW_Marketplace_autotile_A2_92: -146299154
+      SRW_Marketplace_autotile_A2_93: 284452745
+      SRW_Marketplace_autotile_A2_94: 1836683056
+      SRW_Marketplace_autotile_A2_95: 1841242312
+      SRW_Marketplace_autotile_A2_96: -621155282
+      SRW_Marketplace_autotile_A2_97: -1039134939
+      SRW_Marketplace_autotile_A2_98: -1556372255
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

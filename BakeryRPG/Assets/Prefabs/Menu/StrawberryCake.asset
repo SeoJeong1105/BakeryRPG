@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 32e03d1b252105a4c86f24ad9ea1f6df, type: 3}
+  m_Name: StrawberryCake
+  m_EditorClassIdentifier: 
+  menuName: "\uB538\uAE30 \uCF00\uC774\uD06C"
+  menuImage: {fileID: 21300000, guid: 3a9cdd3eba4f258419e554752408f11a, type: 3}
+  piece: 4
+  time: 5
+  price: 10
+  ingredients:
+  - {fileID: 11400000, guid: edac47ac41be9b441a9b9628f191beb3, type: 2}
+  - {fileID: 11400000, guid: 9fd3a2433ea3b8b4eb6b46823de987d5, type: 2}
+  - {fileID: 11400000, guid: be8ac16aa1809354f9e6294cf4c06ec8, type: 2}
