@@ -72,3 +72,7 @@
 * 아이템 Scriptable object를 저장
   * Sprite, 이름, 가격 등 저장
 * 미니 게임에서 얻거나 상점에서 아이템 구매 시 자동으로 추가
+
+## 5. 설치 파일
+구글 드라이브: https://drive.google.com/file/d/1yRvqhw8LagGm5M6Ekr53FTXOy2_Tbd-N/view?usp=sharing
+
